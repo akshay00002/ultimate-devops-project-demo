@@ -316,8 +316,7 @@ func createClient(ctx context.Context, svcAddr string) (*grpc.ClientConn, error)
 	)
 }
 
-// CreateProductCatalogClient creates a new ProductCatalogService client
-
+// CreateProductCatal
 
 
 
